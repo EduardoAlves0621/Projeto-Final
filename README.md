@@ -1,4 +1,4 @@
 # Projeto-Final
-Esse projeto foi usado HTML, CSS e JavaScript
-###  Projeto Pessoal 
-Removei  ás imagens pessoais , ficando somente o código 
+Esse projeto foi usado HTML, CSS e JavaScript.
+### Formatação 
+Coloquei  a  formatação  CSS e JavaScript no corpo do HTML  
